@@ -21,7 +21,7 @@ The goal is to analyze chatbot responses, calculate relevant metrics, and provid
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 [linkedin-url]: https://linkedin.com/in/noblea
