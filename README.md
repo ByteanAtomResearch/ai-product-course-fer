@@ -1,6 +1,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Youtube][youtube-shield]][youtube-url]
+[![Udacity][udacity-shield]][udacity-url]
 
 # Fairness Evaluation Exercise
 
@@ -27,4 +28,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [linkedin-url]: https://linkedin.com/in/noblea
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [youtube-url]: https://youtube.com/c/nobleackerson
+[udacity-url]: https://www.udacity.com/course/ai-product-manager-nanodegree--nd088
 [youtube-shield]: https://img.shields.io/badge/-Youtube-black.svg?style=for-the-badge&logo=youtube&colorB=555
+[udacity-shield]: https://img.shields.io/badge/-Udacity-black.svg?style=for-the-badge&logo=udcaity&colorB=555
