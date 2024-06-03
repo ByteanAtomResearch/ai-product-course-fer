@@ -14,11 +14,25 @@ The goal is to analyze chatbot responses, calculate relevant metrics, and provid
 - Python
 - Pandas
 - Matplotlib
+- RAGAS
+- DeepEval
+- Seaborn
 
 # Instructions
 - Ensure the data file is in the correct format.
 - Follow the steps outlined to load data, calculate metrics, detect bias, visualize results, and generate the report.
 - Use the provided code snippets to complete each step.
+- This notebook is optimized for Google Colab.
+
+### NOTE
+
+I prefer if you upload it to colab and run it.
+
+However, to run this locally, be sure you:
+-  have python running locally, update the library install format from `!` to `%` so for example `!pip install foo` becomes `%pip install foo`
+- store secrets as env variables in your local system using `os.environ.get("SECRET_NAME")` vs what I've currently implemtented
+
+
 
 ## License
 
