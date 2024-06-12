@@ -67,9 +67,8 @@ This exercise guides you through assessing the fairness of the Mango Oasis AI ch
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License. See `LICENSE` for more information.
 Copyright (c) 2024 Noble Ackerson
-Licensed under the MIT license.
 
 [linkedin-url]: https://linkedin.com/in/noblea
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
