@@ -6,7 +6,7 @@
 # LLM Fairness Evaluation Exercise - Mango Oasis Chatbot
 
 [![Libraries Used](https://img.shields.io/badge/libraries-RAGAS%20%7C%20DeepEval-blue)](https://github.com/explodinggradients/ragas,https://github.com/deep-eval/deepeval)
-[![Run in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ByteanAtomResearch/ai-product-course-fer/blob/master/mangobot-fer.ipynb)
+[![Run in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ByteanAtomResearch/ai-product-course-fer/blob/main/mangobot_fer.ipynb)
 
 This exercise guides you through assessing the fairness of the Mango Oasis AI chatbot, with a focus on detecting and mitigating geographical bias in its responses. The output includes metric calculations, visualizations, and actionable recommendations.
 
